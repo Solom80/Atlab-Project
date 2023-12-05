@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701465062674",
+    "project_id": "talabat-d4b5a",
+    "storage_bucket": "talabat-d4b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701465062674:android:ae080d29882871e04e97cb",
+        "android_client_info": {
+          "package_name": "com.example.talabatak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701465062674-sbpuqka59kapbv5d8uba7ljrurag9hud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeRhnTLDp7VBPQJChbWTEKNy3eE0XuCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701465062674-sbpuqka59kapbv5d8uba7ljrurag9hud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
